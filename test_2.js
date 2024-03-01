@@ -1,3 +1,3 @@
 function ChaoMundo(){
-    return "Chao Mundo"
+    return "Chao Mundo Cruel"
 }
